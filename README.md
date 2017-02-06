@@ -1,0 +1,2 @@
+# flamingo-server
+Server App
