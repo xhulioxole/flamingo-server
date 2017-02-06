@@ -1,2 +1,4 @@
 # flamingo-server
-Server App
+AAE - school project
+
+RESTFUL API Server using Jersey!
